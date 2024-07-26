@@ -1,5 +1,5 @@
 # MOVIE RECOMMENDER SYSTEM
- 
+![Movie Poster](<WhatsApp Image 2024-07-26 at 14.39.22_f0e2bd23.jpg>) 
  ### Authors
  * Jeremy Waiguru
  * Paul Ngatia
